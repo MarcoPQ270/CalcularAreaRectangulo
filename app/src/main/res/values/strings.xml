@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Area de Rectangulo</string>
+    <string name="tvtitutlo">Calcular area del rectangulo</string>
+    <string name="etaltura">Altura</string>
+    <string name="etbase">Base</string>
+    <string name="btncalcular">Calcular Area</string>
+
+</resources>
